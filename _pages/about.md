@@ -12,7 +12,7 @@ profile:
     <p><a href="mailto:name.surname@university.edu">name.surname@university.edu</a></p>
 ---
 
-I am an academic at the [University](https//www.universitywebsite.com). I'm currently in the process of building by website. 
+I am an PhD candidate at the [University of Nottingham](https://www.nottingham.ac.uk/). I'm currently in the process of building by website. 
 
 **My research interests lie in**
 

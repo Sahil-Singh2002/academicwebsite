@@ -7,11 +7,12 @@ first_name: Sahil
 middle_name:
 last_name: Singh
 contact_note: ""
-description: > PhD Researcher at the University of Nottingham working in
+description: >
+  PhD Researcher at the University of Nottingham working in
   computational materials engineering, scientific machine learning,
-  numerical methods for PDEs, and high-performance computing. # the ">" symbol means to ignore newlines until "footer_text:"
+  numerical methods for PDEs, and high-performance computing.
 footer_text: ""
-keywords: keywords: Scientific Machine Learning, Computational Materials Engineering, PDEs, Finite Element Methods, Physics-Informed Neural Networks
+keywords: Scientific Machine Learning, Computational Materials Engineering, PDEs, Finite Element Methods, Physics-Informed Neural Networks
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 📐 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 

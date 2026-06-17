@@ -2,19 +2,21 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Sahil Singh | PhD Researcher # the website title (if blank, full name will be used instead)
 first_name: Sahil
 middle_name:
 last_name: Singh
 contact_note: ""
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
+description: > PhD Researcher at the University of Nottingham working in
+  computational materials engineering, scientific machine learning,
+  numerical methods for PDEs, and high-performance computing. # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: ""
-keywords: Scientific Machine Learning, Numerical Methods for Partial Differential Equations, Computational Materials Engineering, Finite Element Methods, High-Performance Scientific Computing, Physics-Informed Neural Networks and Deep Learning for Scientific Applications 
+keywords: keywords: Scientific Machine Learning, Computational Materials Engineering, PDEs, Finite Element Methods, Physics-Informed Neural Networks
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 📐 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: "https://sahil-singh2002.github.io"
-baseurl: ""
+baseurl: "/academicwebsite"
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: false # set to false to disable the back to top button
@@ -210,13 +212,13 @@ lazy_loading_images: true # enables lazy loading of images (recommended)
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics: true
+enable_google_analytics: false
 enable_cronitor_analytics: false
 enable_pirsch_analytics: false
 enable_openpanel_analytics: false
-enable_google_verification: true
+enable_google_verification: false
 enable_bing_verification: false
-enable_math: false
+enable_math: true
 enable_darkmode: true
 
 # -----------------------------------------------------------------------------

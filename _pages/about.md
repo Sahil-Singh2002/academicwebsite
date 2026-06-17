@@ -9,23 +9,19 @@ profile:
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><a href="mailto:name.surname@university.edu">name.surname@university.edu</a></p>
+    <p><a href="mailto:sahil.singh@nottingham.ac.uk">sahil.singh@nottingham.ac.uk</a></p>
 ---
 
-I am an PhD candidate at the [University of Nottingham](https://www.nottingham.ac.uk/). I'm currently in the process of building by website. 
+I am a PhD Researcher at the [University of Nottingham](https://www.nottingham.ac.uk/) working in computational materials engineering, scientific machine learning, numerical methods for PDEs, and high-performance computing. I'm currently in the process of building my website. 
 
-**My research interests lie in**
+**My research interests lie in:**
 
-- **Interest 1.**
-- **Interest 2.**
-- **Interest 3.**
+- **Scientific Machine Learning:** Physics-Informed Neural Networks (PINNs) and data-driven modeling.
+- **Numerical Methods for PDEs:** High-performance computing applications and Finite Element Methods (FEM).
+- **Computational Materials Engineering:** Applying advanced scientific computing to materials engineering problems.
 
-If you’d like to chat, feel free to reach out via <a href="mailto:name.surname@university.edu">name.surname@university.edu</a>
+If you’d like to chat, feel free to reach out via <a href="mailto:sahilrawat13@outlook.com">sahilrawat13@outlook.com</a>
 
 ## Talks
 
-I'll give talks at the following venues:
-
-- Venue 1 : *Title 1*
-- Venue 2 : *Title 2*
-- Venue 3 : *Title 3*
+Yet to come.

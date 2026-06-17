@@ -9,7 +9,7 @@ nav: true
 social: true
 ---
 
-<iframe src="/assets/pdf/cv.pdf" width="100%" height="1200" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="../assets/pdf/cv.pdf" width="100%" height="1200" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 My [LinkedIn profile](https://www.linkedin.com/in/sahil-s-76896b254/) is updated more regularly.
 

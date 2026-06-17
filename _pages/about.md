@@ -9,7 +9,7 @@ profile:
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><a href="mailto:sahil.singh@nottingham.ac.uk">sahil.singh@nottingham.ac.uk</a></p>
+    <p><a href="mailto:sahilrawat13@outlook.com">sahilrawat13@outlook.com</a></p>
 ---
 
 I am a PhD Researcher at the [University of Nottingham](https://www.nottingham.ac.uk/) working in computational materials engineering, scientific machine learning, numerical methods for PDEs, and high-performance computing. I'm currently in the process of building my website. 

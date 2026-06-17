@@ -12,7 +12,7 @@ profile:
     <p><a href="mailto:sahilrawat13@outlook.com">sahilrawat13@outlook.com</a></p>
 ---
 
-I am a PhD Researcher at the [University of Nottingham](https://www.nottingham.ac.uk/) working in computational materials engineering, scientific machine learning, numerical methods for PDEs, and high-performance computing. I'm currently in the process of building my website. 
+I am an upcoming PhD Researcher at the [University of Nottingham](https://www.nottingham.ac.uk/) working in computational materials engineering, scientific machine learning, numerical methods for PDEs, and high-performance computing. I'm currently in the process of building my website. 
 
 **My research interests lie in:**
 
